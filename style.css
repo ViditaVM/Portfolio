@@ -1,0 +1,23 @@
+.myimage{
+    border-radius: 50%;
+}
+
+.container-1{
+    background-color: rgb(196, 200, 255);
+    max-width: 100%;
+}
+
+.bottom-container {
+    background-color: #aed0f8;
+    padding: 50px 0 20px;
+    text-align: center;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+h2,h3{
+    color:rgb(4, 8, 70);
+}
